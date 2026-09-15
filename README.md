@@ -17,3 +17,14 @@ A modular collection of autonomous, task-specific personal AI agents built on de
 * **Local-First & Private:** Personal operational data remains local; external API calls transmit only minified, scrubbed context payloads.
 * **Deterministic Outputs:** Output structures follow immutable schemas (JSON or strict Markdown tables) rather than open conversational text.
 * **Human-in-the-Loop:** Agents prepare drafts, summaries, and action plans; humans authorize external commits and distributions.
+
+---
+
+## 🧠 PM & TPM Skill Library (Claude / Gemini Ready)
+
+Downloadable, deterministic skill definitions to paste directly into **Claude Projects** or **Gemini Gems**:
+
+* **[`prd-spec-generator.md`](./skills/prd-spec-generator.md)**: Structured Technical PRD drafting with SLAs and non-functional requirements.
+* **[`user-story-acceptance-spec.md`](./skills/user-story-acceptance-spec.md)**: INVEST-compliant user stories with Gherkin scenarios.
+* **[`rice-prioritisation-engine.md`](./skills/rice-prioritisation-engine.md)**: Mathematical RICE scoring and roadmapping.
+* **[`root-cause-discovery-5whys.md`](./skills/root-cause-discovery-5whys.md)**: 5-Whys discovery framing and problem canvases.
