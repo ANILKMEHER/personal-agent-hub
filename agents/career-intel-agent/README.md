@@ -58,5 +58,3 @@ An autonomous personal agent that converts unstructured daily work logs, project
     }
   ]
 }
-
----
