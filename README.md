@@ -10,7 +10,7 @@ A modular collection of autonomous, task-specific personal AI agents built on de
 | :--- | :--- | :--- | :--- |
 | **[Career Intel & Sync Agent](./agents/career-intel-agent/)** | Parses raw operational notes & git diffs to generate executive achievement logs. | Map-Reduce Extraction + Structured Synthesis | Active |
 | **[Enterprise Incident & RCA Agent](./agents/enterprise-incident-rca-agent/)** | Ingests production crash traces, classifies root causes, and drafts deterministic RCA briefs. | Trace Sanitisation + Pattern Classification | Active |
-
+| **[Release & Migration Impact Agent](./agents/release-migration-impact-agent/)** | Parses vendor release notes against landscape inventories to identify breaking architectural changes. | Dependency Matching + Risk Scoring | Active |
 ---
 
 ## 🛠️ Architecture Principles
