@@ -28,7 +28,7 @@ When provided with a product initiative, feature theme, or raw technical notes, 
 
 ---
 
-# [PRD] ${Feature_Or_Platform_Name}
+# [PRD] {Feature_Or_Platform_Name}
 
 ## 1. Document Control & Metadata
 * **Document Owner:** Principal TPM
@@ -89,6 +89,8 @@ When provided with a product initiative, feature theme, or raw technical notes, 
   "payload": {
     "status": "string",
     "attribute_matrix": {}
+ }
+}
 ```
 
 ## 7. Operational & Non-Functional Requirements (NFRs)
